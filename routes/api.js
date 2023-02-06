@@ -193,7 +193,7 @@ axios(config)
 router.post("/user/sql", function (req, res, next) {
 var mysql = require('mysql');
 var con = mysql.createConnection({
-  host: "localhost",
+  host: "0.0.0.0",
   user: "root",
   password: "12345678",
   database: "mku"
