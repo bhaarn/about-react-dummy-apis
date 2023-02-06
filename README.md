@@ -1,16 +1,5 @@
 # To Run the Project
 
-- Clone Repo
-  ```bash
-  git clone https://github.com/SnehalAgrawal/about-react-dummy-apis.git
-  ```
-
-
-- Jump into the directory
-  ```bash
-  cd about-react-dummy-apis
-  ```
-
 - Install:
 
   ```bash
